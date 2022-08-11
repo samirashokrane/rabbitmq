@@ -6,4 +6,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("sms")
 public class SmsController extends BaseController {
+
 }
